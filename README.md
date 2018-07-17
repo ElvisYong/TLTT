@@ -9,7 +9,7 @@ CSC CA2 assignment.
 - [x] Set up ec2
 - [x] Publish webapp on ec2
 - [x] Create AWS Cognito
-- [ ] Code AWS Cognito on webapp (Following this guide https://aws.amazon.com/blogs/mobile/use-csharp-to-register-and-authenticate-with-amazon-cognito-user-pools/
+- [ ] Code AWS Cognito on webapp (Following this guide https://aws.amazon.com/blogs/mobile/use-csharp-to-register-and-authenticate-with-amazon-cognito-user-pools/ and https://aws.amazon.com/blogs/mobile/sign-up-and-confirm-with-user-pools-using-csharp/)
   - [ ] Sign Up
   - [ ] Login
 - [ ] Setup Google/AWS/Whatever Captcha
